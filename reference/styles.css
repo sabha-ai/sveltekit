@@ -1,0 +1,4740 @@
+
+.style-0 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 24px;
+    margin-right: 0px;
+}
+
+.style-1 {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 529.6px;
+    margin-top: 32px;
+    overflow-x: auto;
+}
+
+.style-2 {
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(28, 28, 28);
+    padding-left: 8px;
+    padding-right: 8px;
+    justify-content: left;
+    margin-bottom: 8px;
+    min-height: 38px;
+    color: rgb(181, 181, 181);
+    font-size: 13px;
+    overflow-wrap: anywhere;
+}
+
+.style-3 {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    -webkit-box-align: center;
+    align-items: center;
+    gap: 8px;
+}
+
+.style-4 {
+    display: flex;
+    flex-direction: row;
+    padding-left: 8px;
+    padding-right: 8px;
+    border-radius: 16px;
+    -webkit-box-align: center;
+    align-items: center;
+    border: 0.8px solid rgb(3, 3, 3);
+}
+
+.style-5 {
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.style-6 {
+    margin: 0px;
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: -0.24px;
+    line-height: normal;
+    font-family: Inter, Roboto, sans-serif;
+    color: rgb(181, 181, 181);
+}
+
+.style-7 {
+    display: flex;
+    flex-wrap: wrap;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 0px;
+    margin: 0px;
+    list-style: outside none none;
+}
+
+.style-8 {
+    margin: 0px;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration: none solid rgb(180, 90, 255);
+    color: rgb(180, 90, 255);
+    transition: all 0.3s ease-in-out 0s;
+    padding: 6px 4px;
+    border-radius: 4px;
+}
+
+.style-9 {
+    display: flex;
+    user-select: none;
+    margin-left: 1px;
+    margin-right: 1px;
+}
+
+.style-10 {
+    margin: 0px;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration: none solid rgb(180, 90, 255);
+    color: rgb(180, 90, 255);
+    transition: all 0.3s ease-in-out 0s;
+    padding: 6px 4px;
+    border-radius: 4px;
+}
+
+.style-11 {
+    display: flex;
+    user-select: none;
+    margin-left: 1px;
+    margin-right: 1px;
+}
+
+.style-12 {
+    margin: 0px;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration: none solid rgb(180, 90, 255);
+    color: rgb(180, 90, 255);
+    transition: all 0.3s ease-in-out 0s;
+    padding: 6px 4px;
+    border-radius: 4px;
+}
+
+.style-13 {
+    display: flex;
+    user-select: none;
+    margin-left: 1px;
+    margin-right: 1px;
+}
+
+.style-14 {
+    margin: 0px;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration: none solid rgb(180, 90, 255);
+    color: rgb(180, 90, 255);
+    transition: all 0.3s ease-in-out 0s;
+    padding: 6px 4px;
+    border-radius: 4px;
+}
+
+.style-15 {
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(28, 28, 28);
+    width: 100%;
+    height: 483.6px;
+    border-top: 0px none rgb(0, 0, 0);
+    overflow: hidden;
+    position: relative;
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    max-width: 1536px;
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+}
+
+.style-16 {
+    display: flex;
+    flex-flow: row nowrap;
+    width: 100%;
+    max-width: 100%;
+    position: relative;
+    height: 483.6px;
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    z-index: 99;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+.style-17 {
+    display: flex;
+    flex-flow: row nowrap;
+    width: auto;
+    min-width: 100%;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    position: static;
+    overflow: auto hidden;
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    top: 0px;
+    left: 0px;
+    height: 483.6px;
+    z-index: 99;
+    box-sizing: border-box;
+}
+
+.style-18 {
+    display: flex;
+    flex-direction: column;
+    width: 240px;
+    position: absolute;
+    box-sizing: border-box;
+    z-index: 1000;
+    top: 1px;
+    left: 0px;
+    border-right: 0.8px solid rgb(54, 54, 54);
+}
+
+.style-19 {
+    display: flex;
+    flex-direction: row;
+    height: auto;
+    padding: 23.6px 14px 23.6px 8px;
+    color: rgb(105, 105, 105);
+    font-size: 12px;
+    -webkit-box-align: center;
+    align-items: center;
+    width: 100%;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    gap: 16px;
+    white-space: nowrap;
+    box-sizing: border-box;
+}
+
+.style-20 {
+    box-sizing: border-box;
+    cursor: auto;
+}
+
+.style-21 {
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+.style-22 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    gap: 4px;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    width: 100%;
+}
+
+.style-23 {
+    box-sizing: border-box;
+    height: 17px;
+    width: 17px;
+    user-select: none;
+    display: block;
+    fill: rgb(105, 105, 105);
+    flex-shrink: 0;
+    transition: fill 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+    font-size: 21px;
+    stroke-width: 0.5px;
+    stroke: rgb(28, 28, 28);
+}
+
+.style-24 {
+    box-sizing: border-box;
+}
+
+.style-25 {
+    box-sizing: border-box;
+    margin: -1px 0px 0px;
+    letter-spacing: -0.18px;
+    line-height: normal;
+    font-family: Inter, Roboto, sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.style-26 {
+    box-sizing: border-box;
+    cursor: auto;
+}
+
+.style-27 {
+    display: flex;
+    flex-direction: row;
+    gap: 4px;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.style-28 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    gap: 4px;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    width: 100%;
+}
+
+.style-29 {
+    box-sizing: border-box;
+    height: 17px;
+    width: 17px;
+    user-select: none;
+    display: block;
+    fill: rgb(105, 105, 105);
+    flex-shrink: 0;
+    transition: fill 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+    font-size: 21px;
+    stroke-width: 0.5px;
+    stroke: rgb(28, 28, 28);
+}
+
+.style-30 {
+    box-sizing: border-box;
+}
+
+.style-31 {
+    box-sizing: border-box;
+    margin: -1px 0px 0px;
+    letter-spacing: -0.18px;
+    line-height: normal;
+    font-family: Inter, Roboto, sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.style-32 {
+    height: 475.6px;
+    z-index: 100;
+    border-right: 0.8px solid rgb(54, 54, 54);
+    box-sizing: border-box;
+    width: 960px;
+    min-width: 960px;
+    padding-top: 64px;
+    background: rgb(28, 28, 28) none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.style-33 {
+    box-sizing: border-box;
+    color: rgb(250, 250, 250);
+    height: 411.6px;
+    min-width: 100px;
+    display: flex;
+}
+
+.style-34 {
+    position: relative;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    height: 411.6px;
+    width: 240px;
+    min-width: 240px;
+    max-width: 240px;
+    box-shadow: rgb(54, 54, 54) -1px 0px 0px 0px inset;
+}
+
+.style-35 {
+    overflow: visible;
+    height: 0px;
+    width: 0px;
+    height: 0px;
+    width: 0px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-36 {
+    box-sizing: border-box;
+    direction: ltr;
+    height: 412px;
+    position: relative;
+    width: 240px;
+    will-change: transform;
+    overflow: hidden;
+    direction: ltr;
+    height: 412px;
+    position: relative;
+    width: 240px;
+    will-change: transform;
+    overflow: hidden;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-37 {
+    width: auto;
+    height: 144px;
+    max-width: 240px;
+    max-height: 144px;
+    overflow: hidden;
+    position: relative;
+    height: 382px;
+    max-width: 240px;
+    max-height: 144px;
+    overflow: auto hidden;
+    position: relative;
+    box-sizing: border-box;
+    min-height: calc(100% - 30px);
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    outline: rgb(250, 250, 250) none 0px;
+    overflow-x: auto !important;
+}
+
+.style-38 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    min-height: 24px;
+    max-height: 24px;
+    padding: 3px 4px 3px 16px;
+    width: 100%;
+    font-size: 12px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    -webkit-box-pack: justify;
+    place-content: center space-between;
+    margin-right: 1px;
+    z-index: 99;
+    font-weight: 500;
+    color: rgb(156, 156, 156);
+    height: 24px;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    cursor: pointer;
+    vertical-align: middle;
+    line-height: 21px;
+    animation: 0s ease-in-out 0.5s 1 normal forwards running fadeInCell;
+    opacity: 1;
+    min-width: calc(100% - 2px);
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-39 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    -webkit-box-pack: start;
+    place-content: center flex-start;
+    max-width: 172px;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-40 {
+    box-sizing: border-box;
+    user-select: none;
+    display: block;
+    fill: rgb(156, 156, 156);
+    flex-shrink: 0;
+    transition: fill 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+    font-size: 21px;
+    width: 18px;
+    height: 18px;
+    margin-right: 6px;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-41 {
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-42 {
+    box-sizing: border-box;
+    margin: 0px;
+    letter-spacing: -0.18px;
+    line-height: normal;
+    font-family: Inter, Roboto, sans-serif;
+    font-size: 12px;
+    max-width: 100%;
+    padding-top: 1px;
+    display: block;
+    font-weight: 400;
+    color: rgb(181, 181, 181);
+    overflow-x: auto;
+    white-space: nowrap;
+    outline: rgb(181, 181, 181) none 0px;
+}
+
+.style-43 {
+    box-sizing: border-box;
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    outline: rgb(181, 181, 181) none 0px;
+}
+
+.style-44 {
+    box-sizing: border-box;
+    cursor: pointer;
+    width: calc(100% - 48px);
+    outline: rgb(181, 181, 181) none 0px;
+}
+
+.style-45 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    max-width: 172px;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-46 {
+    box-sizing: border-box;
+    user-select: none;
+    height: 21px;
+    display: block;
+    fill: rgb(156, 156, 156);
+    flex-shrink: 0;
+    transition: fill 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+    font-size: 21px;
+    width: 12px;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-47 {
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-48 {
+    display: flex;
+    flex-direction: row;
+    min-height: 24px;
+    max-height: 24px;
+    padding: 3px 4px 3px 16px;
+    width: 100%;
+    font-size: 12px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    -webkit-box-pack: justify;
+    place-content: center space-between;
+    margin-right: 1px;
+    z-index: 99;
+    font-weight: 500;
+    color: rgb(156, 156, 156);
+    height: 24px;
+    left: 0px;
+    position: absolute;
+    top: 24px;
+    cursor: pointer;
+    vertical-align: middle;
+    line-height: 21px;
+    animation: 0s ease-in-out 0.5s 1 normal forwards running fadeInCell;
+    opacity: 1;
+    box-sizing: border-box;
+    min-width: calc(100% - 2px);
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-49 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    -webkit-box-pack: start;
+    place-content: center flex-start;
+    max-width: 172px;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-50 {
+    box-sizing: border-box;
+    user-select: none;
+    display: block;
+    fill: rgb(156, 156, 156);
+    flex-shrink: 0;
+    transition: fill 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+    font-size: 21px;
+    width: 18px;
+    height: 18px;
+    margin-right: 6px;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-51 {
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-52 {
+    box-sizing: border-box;
+    margin: 0px;
+    letter-spacing: -0.18px;
+    line-height: normal;
+    font-family: Inter, Roboto, sans-serif;
+    font-size: 12px;
+    max-width: 100%;
+    padding-top: 1px;
+    display: block;
+    font-weight: 400;
+    color: rgb(181, 181, 181);
+    overflow-x: auto;
+    white-space: nowrap;
+    outline: rgb(181, 181, 181) none 0px;
+}
+
+.style-53 {
+    box-sizing: border-box;
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    outline: rgb(181, 181, 181) none 0px;
+}
+
+.style-54 {
+    box-sizing: border-box;
+    cursor: pointer;
+    width: calc(100% - 48px);
+    outline: rgb(181, 181, 181) none 0px;
+}
+
+.style-55 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    max-width: 172px;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-56 {
+    box-sizing: border-box;
+    user-select: none;
+    height: 21px;
+    display: block;
+    fill: rgb(156, 156, 156);
+    flex-shrink: 0;
+    transition: fill 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+    font-size: 21px;
+    width: 12px;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-57 {
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-58 {
+    display: flex;
+    flex-direction: row;
+    min-height: 24px;
+    max-height: 24px;
+    padding: 3px 4px 3px 16px;
+    width: 100%;
+    font-size: 12px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    -webkit-box-pack: justify;
+    place-content: center space-between;
+    margin-right: 1px;
+    z-index: 99;
+    font-weight: 500;
+    color: rgb(156, 156, 156);
+    height: 24px;
+    left: 0px;
+    position: absolute;
+    top: 48px;
+    cursor: pointer;
+    vertical-align: middle;
+    line-height: 21px;
+    background: rgb(49, 49, 49) none repeat scroll 0% 0% / auto padding-box border-box;
+    animation: 0s ease-in-out 0.5s 1 normal forwards running fadeInCell;
+    opacity: 1;
+    box-sizing: border-box;
+    min-width: calc(100% - 2px);
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-59 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    -webkit-box-pack: start;
+    place-content: center flex-start;
+    max-width: 172px;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-60 {
+    box-sizing: border-box;
+    user-select: none;
+    display: block;
+    fill: rgb(156, 156, 156);
+    flex-shrink: 0;
+    transition: fill 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+    font-size: 21px;
+    width: 18px;
+    height: 18px;
+    margin-right: 6px;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-61 {
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-62 {
+    box-sizing: border-box;
+    margin: 0px;
+    letter-spacing: -0.18px;
+    line-height: normal;
+    font-family: Inter, Roboto, sans-serif;
+    font-size: 12px;
+    max-width: 100%;
+    padding-top: 1px;
+    display: block;
+    font-weight: 400;
+    color: rgb(181, 181, 181);
+    overflow-x: auto;
+    white-space: nowrap;
+    outline: rgb(181, 181, 181) none 0px;
+}
+
+.style-63 {
+    box-sizing: border-box;
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    outline: rgb(181, 181, 181) none 0px;
+}
+
+.style-64 {
+    box-sizing: border-box;
+    cursor: pointer;
+    width: calc(100% - 48px);
+    outline: rgb(181, 181, 181) none 0px;
+}
+
+.style-65 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    max-width: 172px;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-66 {
+    box-sizing: border-box;
+    user-select: none;
+    height: 21px;
+    display: block;
+    fill: rgb(156, 156, 156);
+    flex-shrink: 0;
+    transition: fill 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+    font-size: 21px;
+    width: 12px;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-67 {
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-68 {
+    display: flex;
+    flex-direction: row;
+    min-height: 24px;
+    max-height: 24px;
+    padding: 3px 4px 3px 16px;
+    width: 100%;
+    font-size: 12px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    -webkit-box-pack: start;
+    place-content: center flex-start;
+    margin-right: 1px;
+    z-index: 99;
+    font-weight: 500;
+    color: rgb(156, 156, 156);
+    height: 24px;
+    left: 0px;
+    position: absolute;
+    top: 72px;
+    cursor: pointer;
+    vertical-align: middle;
+    line-height: 21px;
+    animation: 0s ease-in-out 0.5s 1 normal forwards running fadeInCell;
+    opacity: 1;
+    box-sizing: border-box;
+    min-width: calc(100% - 2px);
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-69 {
+    margin-right: 6px;
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-70 {
+    user-select: none;
+    height: 21px;
+    display: inline-block;
+    fill: rgb(156, 156, 156);
+    flex-shrink: 0;
+    transition: fill 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+    font-size: 21px;
+    width: 18px;
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-71 {
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-72 {
+    box-sizing: border-box;
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    max-width: 172px;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-73 {
+    box-sizing: border-box;
+    cursor: pointer;
+    width: calc(100% - 48px);
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-74 {
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-75 {
+    display: flex;
+    flex-direction: row;
+    min-height: 24px;
+    max-height: 24px;
+    padding: 3px 4px 3px 16px;
+    width: 100%;
+    font-size: 12px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    -webkit-box-pack: start;
+    place-content: center flex-start;
+    margin-right: 1px;
+    z-index: 99;
+    font-weight: 500;
+    color: rgb(156, 156, 156);
+    height: 24px;
+    left: 0px;
+    position: absolute;
+    top: 96px;
+    cursor: pointer;
+    vertical-align: middle;
+    line-height: 21px;
+    animation: 0s ease-in-out 0.5s 1 normal forwards running fadeInCell;
+    opacity: 1;
+    box-sizing: border-box;
+    min-width: calc(100% - 2px);
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-76 {
+    margin-right: 6px;
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-77 {
+    user-select: none;
+    height: 21px;
+    display: inline-block;
+    fill: rgb(156, 156, 156);
+    flex-shrink: 0;
+    transition: fill 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+    font-size: 21px;
+    width: 18px;
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-78 {
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-79 {
+    box-sizing: border-box;
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    max-width: 172px;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-80 {
+    box-sizing: border-box;
+    cursor: pointer;
+    width: calc(100% - 48px);
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-81 {
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-82 {
+    display: flex;
+    flex-direction: row;
+    min-height: 24px;
+    max-height: 24px;
+    padding: 3px 4px 3px 16px;
+    width: 100%;
+    font-size: 12px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    -webkit-box-pack: start;
+    place-content: center flex-start;
+    margin-right: 1px;
+    z-index: 99;
+    font-weight: 500;
+    color: rgb(156, 156, 156);
+    height: 24px;
+    left: 0px;
+    position: absolute;
+    top: 120px;
+    cursor: pointer;
+    vertical-align: middle;
+    line-height: 21px;
+    animation: 0s ease-in-out 0.5s 1 normal forwards running fadeInCell;
+    opacity: 1;
+    box-sizing: border-box;
+    min-width: calc(100% - 2px);
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-83 {
+    margin-right: 6px;
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-84 {
+    user-select: none;
+    height: 21px;
+    display: inline-block;
+    fill: rgb(156, 156, 156);
+    flex-shrink: 0;
+    transition: fill 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+    font-size: 21px;
+    width: 18px;
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-85 {
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-86 {
+    box-sizing: border-box;
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    max-width: 172px;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-87 {
+    box-sizing: border-box;
+    cursor: pointer;
+    width: calc(100% - 48px);
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-88 {
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-89 {
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 411.6px;
+    width: 100%;
+    overflow: hidden;
+    z-index: -1;
+    animation: 0.001s ease 0s 1 normal none running resizeanim;
+    visibility: hidden;
+    opacity: 0;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-90 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 411.6px;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-91 {
+    width: 241px;
+    height: 413px;
+    height: 413px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-92 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 411.6px;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-93 {
+    position: relative;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    height: 411.6px;
+    width: 240px;
+    min-width: 240px;
+    max-width: 240px;
+    box-shadow: rgb(54, 54, 54) -1px 0px 0px 0px inset;
+}
+
+.style-94 {
+    overflow: visible;
+    height: 0px;
+    width: 0px;
+    height: 0px;
+    width: 0px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-95 {
+    box-sizing: border-box;
+    direction: ltr;
+    height: 412px;
+    position: relative;
+    width: 240px;
+    will-change: transform;
+    overflow: hidden;
+    direction: ltr;
+    height: 412px;
+    position: relative;
+    width: 240px;
+    will-change: transform;
+    overflow: hidden;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-96 {
+    width: auto;
+    height: 24px;
+    max-width: 240px;
+    max-height: 24px;
+    overflow: hidden;
+    position: relative;
+    height: 382px;
+    max-width: 240px;
+    max-height: 24px;
+    overflow: auto hidden;
+    position: relative;
+    box-sizing: border-box;
+    min-height: calc(100% - 30px);
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    outline: rgb(250, 250, 250) none 0px;
+    overflow-x: auto !important;
+}
+
+.style-97 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    min-height: 24px;
+    max-height: 24px;
+    padding: 3px 4px 3px 16px;
+    width: 100%;
+    font-size: 12px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    -webkit-box-pack: justify;
+    place-content: center space-between;
+    margin-right: 1px;
+    z-index: 99;
+    font-weight: 500;
+    color: rgb(156, 156, 156);
+    height: 24px;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    cursor: pointer;
+    vertical-align: middle;
+    line-height: 21px;
+    background: rgb(49, 49, 49) none repeat scroll 0% 0% / auto padding-box border-box;
+    animation: 0s ease-in-out 0.5s 1 normal forwards running fadeInCell;
+    opacity: 1;
+    min-width: calc(100% - 2px);
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-98 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    -webkit-box-pack: start;
+    place-content: center flex-start;
+    max-width: 172px;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-99 {
+    box-sizing: border-box;
+    user-select: none;
+    display: block;
+    fill: rgb(156, 156, 156);
+    flex-shrink: 0;
+    transition: fill 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+    font-size: 21px;
+    width: 18px;
+    height: 18px;
+    margin-right: 6px;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-100 {
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-101 {
+    box-sizing: border-box;
+    margin: 0px;
+    letter-spacing: -0.18px;
+    line-height: normal;
+    font-family: Inter, Roboto, sans-serif;
+    font-size: 12px;
+    max-width: 100%;
+    padding-top: 1px;
+    display: block;
+    font-weight: 400;
+    color: rgb(181, 181, 181);
+    overflow-x: auto;
+    white-space: nowrap;
+    outline: rgb(181, 181, 181) none 0px;
+}
+
+.style-102 {
+    box-sizing: border-box;
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    outline: rgb(181, 181, 181) none 0px;
+}
+
+.style-103 {
+    box-sizing: border-box;
+    cursor: pointer;
+    width: calc(100% - 48px);
+    outline: rgb(181, 181, 181) none 0px;
+}
+
+.style-104 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    max-width: 172px;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-105 {
+    box-sizing: border-box;
+    user-select: none;
+    height: 21px;
+    display: block;
+    fill: rgb(156, 156, 156);
+    flex-shrink: 0;
+    transition: fill 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+    font-size: 21px;
+    width: 12px;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-106 {
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-107 {
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 411.6px;
+    width: 100%;
+    overflow: hidden;
+    z-index: -1;
+    animation: 0.001s ease 0s 1 normal none running resizeanim;
+    visibility: hidden;
+    opacity: 0;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-108 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 411.6px;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-109 {
+    width: 241px;
+    height: 413px;
+    height: 413px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-110 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 411.6px;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-111 {
+    position: relative;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    height: 411.6px;
+    width: 240px;
+    min-width: 240px;
+    max-width: 240px;
+    box-shadow: rgb(54, 54, 54) -1px 0px 0px 0px inset;
+}
+
+.style-112 {
+    overflow: visible;
+    height: 0px;
+    width: 0px;
+    height: 0px;
+    width: 0px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-113 {
+    box-sizing: border-box;
+    direction: ltr;
+    height: 412px;
+    position: relative;
+    width: 240px;
+    will-change: transform;
+    overflow: hidden;
+    direction: ltr;
+    height: 412px;
+    position: relative;
+    width: 240px;
+    will-change: transform;
+    overflow: hidden;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-114 {
+    width: auto;
+    height: 144px;
+    max-width: 240px;
+    max-height: 144px;
+    overflow: hidden;
+    position: relative;
+    height: 382px;
+    max-width: 240px;
+    max-height: 144px;
+    overflow: auto hidden;
+    position: relative;
+    box-sizing: border-box;
+    min-height: calc(100% - 30px);
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    outline: rgb(250, 250, 250) none 0px;
+    overflow-x: auto !important;
+}
+
+.style-115 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    min-height: 24px;
+    max-height: 24px;
+    padding: 3px 4px 3px 16px;
+    width: 100%;
+    font-size: 12px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    -webkit-box-pack: justify;
+    place-content: center space-between;
+    margin-right: 1px;
+    z-index: 99;
+    font-weight: 500;
+    color: rgb(156, 156, 156);
+    height: 24px;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    cursor: pointer;
+    vertical-align: middle;
+    line-height: 21px;
+    animation: 0s ease-in-out 0.5s 1 normal forwards running fadeInCell;
+    opacity: 1;
+    min-width: calc(100% - 2px);
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-116 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    -webkit-box-pack: start;
+    place-content: center flex-start;
+    max-width: 172px;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-117 {
+    box-sizing: border-box;
+    user-select: none;
+    display: block;
+    fill: rgb(156, 156, 156);
+    flex-shrink: 0;
+    transition: fill 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+    font-size: 21px;
+    width: 18px;
+    height: 18px;
+    margin-right: 6px;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-118 {
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-119 {
+    box-sizing: border-box;
+    margin: 0px;
+    letter-spacing: -0.18px;
+    line-height: normal;
+    font-family: Inter, Roboto, sans-serif;
+    font-size: 12px;
+    max-width: 100%;
+    padding-top: 1px;
+    display: block;
+    font-weight: 400;
+    color: rgb(181, 181, 181);
+    overflow-x: auto;
+    white-space: nowrap;
+    outline: rgb(181, 181, 181) none 0px;
+}
+
+.style-120 {
+    box-sizing: border-box;
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    outline: rgb(181, 181, 181) none 0px;
+}
+
+.style-121 {
+    box-sizing: border-box;
+    cursor: pointer;
+    width: calc(100% - 48px);
+    outline: rgb(181, 181, 181) none 0px;
+}
+
+.style-122 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    max-width: 172px;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-123 {
+    box-sizing: border-box;
+    user-select: none;
+    height: 21px;
+    display: block;
+    fill: rgb(156, 156, 156);
+    flex-shrink: 0;
+    transition: fill 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+    font-size: 21px;
+    width: 12px;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-124 {
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-125 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    min-height: 24px;
+    max-height: 24px;
+    padding: 3px 4px 3px 16px;
+    width: 100%;
+    font-size: 12px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    -webkit-box-pack: justify;
+    place-content: center space-between;
+    margin-right: 1px;
+    z-index: 99;
+    font-weight: 500;
+    color: rgb(156, 156, 156);
+    height: 24px;
+    left: 0px;
+    position: absolute;
+    top: 24px;
+    cursor: pointer;
+    vertical-align: middle;
+    line-height: 21px;
+    background: rgb(31, 8, 64) none repeat scroll 0% 0% / auto padding-box border-box;
+    animation: 0s ease-in-out 0.5s 1 normal forwards running fadeInCell;
+    opacity: 1;
+    min-width: calc(100% - 2px);
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-126 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    -webkit-box-pack: start;
+    place-content: center flex-start;
+    max-width: 172px;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-127 {
+    box-sizing: border-box;
+    user-select: none;
+    display: block;
+    fill: rgb(156, 156, 156);
+    flex-shrink: 0;
+    transition: fill 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+    font-size: 21px;
+    width: 18px;
+    height: 18px;
+    margin-right: 6px;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-128 {
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-129 {
+    box-sizing: border-box;
+    margin: 0px;
+    letter-spacing: -0.18px;
+    line-height: normal;
+    font-family: Inter, Roboto, sans-serif;
+    font-size: 12px;
+    max-width: 100%;
+    padding-top: 1px;
+    display: block;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+    overflow-x: auto;
+    white-space: nowrap;
+    outline: rgb(255, 255, 255) none 0px;
+}
+
+.style-130 {
+    box-sizing: border-box;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    outline: rgb(255, 255, 255) none 0px;
+}
+
+.style-131 {
+    box-sizing: border-box;
+    cursor: pointer;
+    width: calc(100% - 48px);
+    outline: rgb(255, 255, 255) none 0px;
+}
+
+.style-132 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    max-width: 172px;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-133 {
+    box-sizing: border-box;
+    user-select: none;
+    height: 21px;
+    display: block;
+    fill: rgb(156, 156, 156);
+    flex-shrink: 0;
+    transition: fill 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+    font-size: 21px;
+    width: 12px;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-134 {
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-135 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    min-height: 24px;
+    max-height: 24px;
+    padding: 3px 4px 3px 16px;
+    width: 100%;
+    font-size: 12px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    -webkit-box-pack: justify;
+    place-content: center space-between;
+    margin-right: 1px;
+    z-index: 99;
+    font-weight: 500;
+    color: rgb(156, 156, 156);
+    height: 24px;
+    left: 0px;
+    position: absolute;
+    top: 48px;
+    cursor: pointer;
+    vertical-align: middle;
+    line-height: 21px;
+    animation: 0s ease-in-out 0.5s 1 normal forwards running fadeInCell;
+    opacity: 1;
+    min-width: calc(100% - 2px);
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-136 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    -webkit-box-pack: start;
+    place-content: center flex-start;
+    max-width: 172px;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-137 {
+    box-sizing: border-box;
+    user-select: none;
+    display: block;
+    fill: rgb(156, 156, 156);
+    flex-shrink: 0;
+    transition: fill 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+    font-size: 21px;
+    width: 18px;
+    height: 18px;
+    margin-right: 6px;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-138 {
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-139 {
+    box-sizing: border-box;
+    margin: 0px;
+    letter-spacing: -0.18px;
+    line-height: normal;
+    font-family: Inter, Roboto, sans-serif;
+    font-size: 12px;
+    max-width: 100%;
+    padding-top: 1px;
+    display: block;
+    font-weight: 400;
+    color: rgb(181, 181, 181);
+    overflow-x: auto;
+    white-space: nowrap;
+    outline: rgb(181, 181, 181) none 0px;
+}
+
+.style-140 {
+    box-sizing: border-box;
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    outline: rgb(181, 181, 181) none 0px;
+}
+
+.style-141 {
+    box-sizing: border-box;
+    cursor: pointer;
+    width: calc(100% - 48px);
+    outline: rgb(181, 181, 181) none 0px;
+}
+
+.style-142 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    max-width: 172px;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-143 {
+    box-sizing: border-box;
+    user-select: none;
+    height: 21px;
+    display: block;
+    fill: rgb(156, 156, 156);
+    flex-shrink: 0;
+    transition: fill 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+    font-size: 21px;
+    width: 12px;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-144 {
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-145 {
+    display: flex;
+    flex-direction: row;
+    min-height: 24px;
+    max-height: 24px;
+    padding: 3px 4px 3px 16px;
+    width: 100%;
+    font-size: 12px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    -webkit-box-pack: start;
+    place-content: center flex-start;
+    margin-right: 1px;
+    z-index: 99;
+    font-weight: 500;
+    color: rgb(156, 156, 156);
+    height: 24px;
+    left: 0px;
+    position: absolute;
+    top: 72px;
+    cursor: pointer;
+    vertical-align: middle;
+    line-height: 21px;
+    animation: 0s ease-in-out 0.5s 1 normal forwards running fadeInCell;
+    opacity: 1;
+    box-sizing: border-box;
+    min-width: calc(100% - 2px);
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-146 {
+    margin-right: 6px;
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-147 {
+    user-select: none;
+    height: 21px;
+    display: inline-block;
+    fill: rgb(156, 156, 156);
+    flex-shrink: 0;
+    transition: fill 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+    font-size: 21px;
+    width: 18px;
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-148 {
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-149 {
+    box-sizing: border-box;
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    max-width: 172px;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-150 {
+    box-sizing: border-box;
+    cursor: pointer;
+    width: calc(100% - 48px);
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-151 {
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-152 {
+    display: flex;
+    flex-direction: row;
+    min-height: 24px;
+    max-height: 24px;
+    padding: 3px 4px 3px 16px;
+    width: 100%;
+    font-size: 12px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    -webkit-box-pack: start;
+    place-content: center flex-start;
+    margin-right: 1px;
+    z-index: 99;
+    font-weight: 500;
+    color: rgb(156, 156, 156);
+    height: 24px;
+    left: 0px;
+    position: absolute;
+    top: 96px;
+    cursor: pointer;
+    vertical-align: middle;
+    line-height: 21px;
+    animation: 0s ease-in-out 0.5s 1 normal forwards running fadeInCell;
+    opacity: 1;
+    box-sizing: border-box;
+    min-width: calc(100% - 2px);
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-153 {
+    margin-right: 6px;
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-154 {
+    user-select: none;
+    height: 21px;
+    display: inline-block;
+    fill: rgb(156, 156, 156);
+    flex-shrink: 0;
+    transition: fill 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+    font-size: 21px;
+    width: 18px;
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-155 {
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-156 {
+    box-sizing: border-box;
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    max-width: 172px;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-157 {
+    box-sizing: border-box;
+    cursor: pointer;
+    width: calc(100% - 48px);
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-158 {
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-159 {
+    display: flex;
+    flex-direction: row;
+    min-height: 24px;
+    max-height: 24px;
+    padding: 3px 4px 3px 16px;
+    width: 100%;
+    font-size: 12px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    -webkit-box-pack: start;
+    place-content: center flex-start;
+    margin-right: 1px;
+    z-index: 99;
+    font-weight: 500;
+    color: rgb(156, 156, 156);
+    height: 24px;
+    left: 0px;
+    position: absolute;
+    top: 120px;
+    cursor: pointer;
+    vertical-align: middle;
+    line-height: 21px;
+    animation: 0s ease-in-out 0.5s 1 normal forwards running fadeInCell;
+    opacity: 1;
+    box-sizing: border-box;
+    min-width: calc(100% - 2px);
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-160 {
+    margin-right: 6px;
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-161 {
+    user-select: none;
+    height: 21px;
+    display: inline-block;
+    fill: rgb(156, 156, 156);
+    flex-shrink: 0;
+    transition: fill 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+    font-size: 21px;
+    width: 18px;
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-162 {
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-163 {
+    box-sizing: border-box;
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    max-width: 172px;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-164 {
+    box-sizing: border-box;
+    cursor: pointer;
+    width: calc(100% - 48px);
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-165 {
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-166 {
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 411.6px;
+    width: 100%;
+    overflow: hidden;
+    z-index: -1;
+    animation: 0.001s ease 0s 1 normal none running resizeanim;
+    visibility: hidden;
+    opacity: 0;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-167 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 411.6px;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-168 {
+    width: 241px;
+    height: 413px;
+    height: 413px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-169 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 411.6px;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-170 {
+    position: relative;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    height: 411.6px;
+    width: 240px;
+    min-width: 240px;
+    max-width: 240px;
+    box-shadow: rgb(54, 54, 54) -1px 0px 0px 0px inset;
+}
+
+.style-171 {
+    overflow: visible;
+    height: 0px;
+    width: 0px;
+    height: 0px;
+    width: 0px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-172 {
+    box-sizing: border-box;
+    direction: ltr;
+    height: 412px;
+    position: relative;
+    width: 240px;
+    will-change: transform;
+    overflow: hidden;
+    direction: ltr;
+    height: 412px;
+    position: relative;
+    width: 240px;
+    will-change: transform;
+    overflow: hidden;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-173 {
+    width: auto;
+    height: 48px;
+    max-width: 240px;
+    max-height: 48px;
+    overflow: hidden;
+    position: relative;
+    height: 382px;
+    max-width: 240px;
+    max-height: 48px;
+    overflow: auto hidden;
+    position: relative;
+    box-sizing: border-box;
+    min-height: calc(100% - 30px);
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    outline: rgb(250, 250, 250) none 0px;
+    overflow-x: auto !important;
+}
+
+.style-174 {
+    display: flex;
+    flex-direction: row;
+    min-height: 24px;
+    max-height: 24px;
+    padding: 3px 4px 3px 16px;
+    width: 100%;
+    font-size: 12px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    -webkit-box-pack: start;
+    place-content: center flex-start;
+    margin-right: 1px;
+    z-index: 99;
+    font-weight: 500;
+    color: rgb(156, 156, 156);
+    height: 24px;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    cursor: pointer;
+    vertical-align: middle;
+    line-height: 21px;
+    animation: 0s ease-in-out 0.5s 1 normal forwards running fadeInCell;
+    opacity: 1;
+    box-sizing: border-box;
+    min-width: calc(100% - 2px);
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-175 {
+    margin-right: 6px;
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-176 {
+    user-select: none;
+    height: 21px;
+    display: inline-block;
+    fill: rgb(156, 156, 156);
+    flex-shrink: 0;
+    transition: fill 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+    font-size: 21px;
+    width: 18px;
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-177 {
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-178 {
+    box-sizing: border-box;
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    max-width: 172px;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-179 {
+    box-sizing: border-box;
+    cursor: pointer;
+    width: calc(100% - 48px);
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-180 {
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-181 {
+    display: flex;
+    flex-direction: row;
+    min-height: 24px;
+    max-height: 24px;
+    padding: 3px 4px 3px 16px;
+    width: 100%;
+    font-size: 12px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    -webkit-box-pack: start;
+    place-content: center flex-start;
+    margin-right: 1px;
+    z-index: 99;
+    font-weight: 500;
+    color: rgb(156, 156, 156);
+    height: 24px;
+    left: 0px;
+    position: absolute;
+    top: 24px;
+    cursor: pointer;
+    vertical-align: middle;
+    line-height: 21px;
+    animation: 0s ease-in-out 0.5s 1 normal forwards running fadeInCell;
+    opacity: 1;
+    box-sizing: border-box;
+    min-width: calc(100% - 2px);
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-182 {
+    margin-right: 6px;
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-183 {
+    user-select: none;
+    height: 21px;
+    display: inline-block;
+    fill: rgb(156, 156, 156);
+    flex-shrink: 0;
+    transition: fill 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+    font-size: 21px;
+    width: 18px;
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-184 {
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-185 {
+    box-sizing: border-box;
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    max-width: 172px;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-186 {
+    box-sizing: border-box;
+    cursor: pointer;
+    width: calc(100% - 48px);
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-187 {
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    box-sizing: border-box;
+    outline: rgb(156, 156, 156) none 0px;
+}
+
+.style-188 {
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 411.6px;
+    width: 100%;
+    overflow: hidden;
+    z-index: -1;
+    animation: 0.001s ease 0s 1 normal none running resizeanim;
+    visibility: hidden;
+    opacity: 0;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-189 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 411.6px;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-190 {
+    width: 241px;
+    height: 413px;
+    height: 413px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-191 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 411.6px;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-192 {
+    display: flex;
+    flex-direction: column;
+    width: 240px;
+    position: absolute;
+    box-sizing: border-box;
+    z-index: 1000;
+    top: 1px;
+    left: 0px;
+    border-right: 0.8px solid rgb(54, 54, 54);
+}
+
+.style-193 {
+    display: none;
+    height: 100%;
+    z-index: 99;
+    border-right: 0.8px solid rgb(54, 54, 54);
+    box-sizing: border-box;
+    width: 960px;
+    min-width: 960px;
+    padding-top: 64px;
+    background: rgb(28, 28, 28) none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.style-194 {
+    box-sizing: border-box;
+    color: rgb(250, 250, 250);
+    height: 100%;
+    min-width: 100px;
+    display: flex;
+}
+
+.style-195 {
+    position: relative;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 240px;
+    min-width: 240px;
+    max-width: 240px;
+    box-shadow: rgb(54, 54, 54) -1px 0px 0px 0px inset;
+}
+
+.style-196 {
+    overflow: visible;
+    height: 0px;
+    width: 0px;
+    height: 0px;
+    width: 0px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-197 {
+    box-sizing: border-box;
+    direction: ltr;
+    height: 0px;
+    position: relative;
+    width: 0px;
+    will-change: transform;
+    overflow: auto;
+    direction: ltr;
+    height: 0px;
+    position: relative;
+    width: 0px;
+    will-change: transform;
+    overflow: auto;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-198 {
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    z-index: -1;
+    animation: 0.001s ease 0s 1 normal none running resizeanim;
+    visibility: hidden;
+    opacity: 0;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-199 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-200 {
+    width: 1px;
+    height: 1px;
+    height: 1px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-201 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-202 {
+    position: relative;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 240px;
+    min-width: 240px;
+    max-width: 240px;
+    box-shadow: rgb(54, 54, 54) -1px 0px 0px 0px inset;
+}
+
+.style-203 {
+    overflow: visible;
+    height: 0px;
+    width: 0px;
+    height: 0px;
+    width: 0px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-204 {
+    box-sizing: border-box;
+    direction: ltr;
+    height: 0px;
+    position: relative;
+    width: 0px;
+    will-change: transform;
+    overflow: auto;
+    direction: ltr;
+    height: 0px;
+    position: relative;
+    width: 0px;
+    will-change: transform;
+    overflow: auto;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-205 {
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    z-index: -1;
+    animation: 0.001s ease 0s 1 normal none running resizeanim;
+    visibility: hidden;
+    opacity: 0;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-206 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-207 {
+    width: 1px;
+    height: 1px;
+    height: 1px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-208 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-209 {
+    position: relative;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 240px;
+    min-width: 240px;
+    max-width: 240px;
+    box-shadow: rgb(54, 54, 54) -1px 0px 0px 0px inset;
+}
+
+.style-210 {
+    overflow: visible;
+    height: 0px;
+    width: 0px;
+    height: 0px;
+    width: 0px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-211 {
+    box-sizing: border-box;
+    direction: ltr;
+    height: 0px;
+    position: relative;
+    width: 0px;
+    will-change: transform;
+    overflow: auto;
+    direction: ltr;
+    height: 0px;
+    position: relative;
+    width: 0px;
+    will-change: transform;
+    overflow: auto;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-212 {
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    z-index: -1;
+    animation: 0.001s ease 0s 1 normal none running resizeanim;
+    visibility: hidden;
+    opacity: 0;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-213 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-214 {
+    width: 1px;
+    height: 1px;
+    height: 1px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-215 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-216 {
+    position: relative;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 240px;
+    min-width: 240px;
+    max-width: 240px;
+    box-shadow: rgb(54, 54, 54) -1px 0px 0px 0px inset;
+}
+
+.style-217 {
+    overflow: visible;
+    height: 0px;
+    width: 0px;
+    height: 0px;
+    width: 0px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-218 {
+    box-sizing: border-box;
+    direction: ltr;
+    height: 0px;
+    position: relative;
+    width: 0px;
+    will-change: transform;
+    overflow: auto;
+    direction: ltr;
+    height: 0px;
+    position: relative;
+    width: 0px;
+    will-change: transform;
+    overflow: auto;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-219 {
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    z-index: -1;
+    animation: 0.001s ease 0s 1 normal none running resizeanim;
+    visibility: hidden;
+    opacity: 0;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-220 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-221 {
+    width: 1px;
+    height: 1px;
+    height: 1px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-222 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-223 {
+    display: flex;
+    flex-direction: column;
+    width: 240px;
+    position: absolute;
+    box-sizing: border-box;
+    z-index: 1000;
+    top: 1px;
+    left: 0px;
+    border-right: 0.8px solid rgb(54, 54, 54);
+}
+
+.style-224 {
+    display: none;
+    height: 100%;
+    z-index: 98;
+    border-right: 0.8px solid rgb(54, 54, 54);
+    box-sizing: border-box;
+    width: 960px;
+    min-width: 960px;
+    padding-top: 64px;
+    background: rgb(28, 28, 28) none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.style-225 {
+    box-sizing: border-box;
+    color: rgb(250, 250, 250);
+    height: 100%;
+    min-width: 100px;
+    display: flex;
+}
+
+.style-226 {
+    position: relative;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 240px;
+    min-width: 240px;
+    max-width: 240px;
+    box-shadow: rgb(54, 54, 54) -1px 0px 0px 0px inset;
+}
+
+.style-227 {
+    overflow: visible;
+    height: 0px;
+    width: 0px;
+    height: 0px;
+    width: 0px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-228 {
+    box-sizing: border-box;
+    direction: ltr;
+    height: 0px;
+    position: relative;
+    width: 0px;
+    will-change: transform;
+    overflow: auto;
+    direction: ltr;
+    height: 0px;
+    position: relative;
+    width: 0px;
+    will-change: transform;
+    overflow: auto;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-229 {
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    z-index: -1;
+    animation: 0.001s ease 0s 1 normal none running resizeanim;
+    visibility: hidden;
+    opacity: 0;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-230 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-231 {
+    width: 1px;
+    height: 1px;
+    height: 1px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-232 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-233 {
+    position: relative;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 240px;
+    min-width: 240px;
+    max-width: 240px;
+    box-shadow: rgb(54, 54, 54) -1px 0px 0px 0px inset;
+}
+
+.style-234 {
+    overflow: visible;
+    height: 0px;
+    width: 0px;
+    height: 0px;
+    width: 0px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-235 {
+    box-sizing: border-box;
+    direction: ltr;
+    height: 0px;
+    position: relative;
+    width: 0px;
+    will-change: transform;
+    overflow: auto;
+    direction: ltr;
+    height: 0px;
+    position: relative;
+    width: 0px;
+    will-change: transform;
+    overflow: auto;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-236 {
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    z-index: -1;
+    animation: 0.001s ease 0s 1 normal none running resizeanim;
+    visibility: hidden;
+    opacity: 0;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-237 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-238 {
+    width: 1px;
+    height: 1px;
+    height: 1px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-239 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-240 {
+    position: relative;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 240px;
+    min-width: 240px;
+    max-width: 240px;
+    box-shadow: rgb(54, 54, 54) -1px 0px 0px 0px inset;
+}
+
+.style-241 {
+    overflow: visible;
+    height: 0px;
+    width: 0px;
+    height: 0px;
+    width: 0px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-242 {
+    box-sizing: border-box;
+    direction: ltr;
+    height: 0px;
+    position: relative;
+    width: 0px;
+    will-change: transform;
+    overflow: auto;
+    direction: ltr;
+    height: 0px;
+    position: relative;
+    width: 0px;
+    will-change: transform;
+    overflow: auto;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-243 {
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    z-index: -1;
+    animation: 0.001s ease 0s 1 normal none running resizeanim;
+    visibility: hidden;
+    opacity: 0;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-244 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-245 {
+    width: 1px;
+    height: 1px;
+    height: 1px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-246 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-247 {
+    position: relative;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 240px;
+    min-width: 240px;
+    max-width: 240px;
+    box-shadow: rgb(54, 54, 54) -1px 0px 0px 0px inset;
+}
+
+.style-248 {
+    overflow: visible;
+    height: 0px;
+    width: 0px;
+    height: 0px;
+    width: 0px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-249 {
+    box-sizing: border-box;
+    direction: ltr;
+    height: 0px;
+    position: relative;
+    width: 0px;
+    will-change: transform;
+    overflow: auto;
+    direction: ltr;
+    height: 0px;
+    position: relative;
+    width: 0px;
+    will-change: transform;
+    overflow: auto;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-250 {
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    z-index: -1;
+    animation: 0.001s ease 0s 1 normal none running resizeanim;
+    visibility: hidden;
+    opacity: 0;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-251 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-252 {
+    width: 1px;
+    height: 1px;
+    height: 1px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-253 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-254 {
+    display: flex;
+    flex-direction: column;
+    width: 240px;
+    position: absolute;
+    box-sizing: border-box;
+    z-index: 1000;
+    top: 1px;
+    left: 0px;
+    border-right: 0.8px solid rgb(54, 54, 54);
+}
+
+.style-255 {
+    display: none;
+    height: 100%;
+    z-index: 97;
+    border-right: 0.8px solid rgb(54, 54, 54);
+    box-sizing: border-box;
+    width: 960px;
+    min-width: 960px;
+    padding-top: 64px;
+    background: rgb(28, 28, 28) none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.style-256 {
+    box-sizing: border-box;
+    color: rgb(250, 250, 250);
+    height: 100%;
+    min-width: 100px;
+    display: flex;
+}
+
+.style-257 {
+    position: relative;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 240px;
+    min-width: 240px;
+    max-width: 240px;
+    box-shadow: rgb(54, 54, 54) -1px 0px 0px 0px inset;
+}
+
+.style-258 {
+    overflow: visible;
+    height: 0px;
+    width: 0px;
+    height: 0px;
+    width: 0px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-259 {
+    box-sizing: border-box;
+    direction: ltr;
+    height: 0px;
+    position: relative;
+    width: 0px;
+    will-change: transform;
+    overflow: auto;
+    direction: ltr;
+    height: 0px;
+    position: relative;
+    width: 0px;
+    will-change: transform;
+    overflow: auto;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-260 {
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    z-index: -1;
+    animation: 0.001s ease 0s 1 normal none running resizeanim;
+    visibility: hidden;
+    opacity: 0;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-261 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-262 {
+    width: 1px;
+    height: 1px;
+    height: 1px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-263 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-264 {
+    position: relative;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 240px;
+    min-width: 240px;
+    max-width: 240px;
+    box-shadow: rgb(54, 54, 54) -1px 0px 0px 0px inset;
+}
+
+.style-265 {
+    overflow: visible;
+    height: 0px;
+    width: 0px;
+    height: 0px;
+    width: 0px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-266 {
+    box-sizing: border-box;
+    direction: ltr;
+    height: 0px;
+    position: relative;
+    width: 0px;
+    will-change: transform;
+    overflow: auto;
+    direction: ltr;
+    height: 0px;
+    position: relative;
+    width: 0px;
+    will-change: transform;
+    overflow: auto;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-267 {
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    z-index: -1;
+    animation: 0.001s ease 0s 1 normal none running resizeanim;
+    visibility: hidden;
+    opacity: 0;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-268 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-269 {
+    width: 1px;
+    height: 1px;
+    height: 1px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-270 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-271 {
+    position: relative;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 240px;
+    min-width: 240px;
+    max-width: 240px;
+    box-shadow: rgb(54, 54, 54) -1px 0px 0px 0px inset;
+}
+
+.style-272 {
+    overflow: visible;
+    height: 0px;
+    width: 0px;
+    height: 0px;
+    width: 0px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-273 {
+    box-sizing: border-box;
+    direction: ltr;
+    height: 0px;
+    position: relative;
+    width: 0px;
+    will-change: transform;
+    overflow: auto;
+    direction: ltr;
+    height: 0px;
+    position: relative;
+    width: 0px;
+    will-change: transform;
+    overflow: auto;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-274 {
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    z-index: -1;
+    animation: 0.001s ease 0s 1 normal none running resizeanim;
+    visibility: hidden;
+    opacity: 0;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-275 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-276 {
+    width: 1px;
+    height: 1px;
+    height: 1px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-277 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-278 {
+    position: relative;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 240px;
+    min-width: 240px;
+    max-width: 240px;
+    box-shadow: rgb(54, 54, 54) -1px 0px 0px 0px inset;
+}
+
+.style-279 {
+    overflow: visible;
+    height: 0px;
+    width: 0px;
+    height: 0px;
+    width: 0px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-280 {
+    box-sizing: border-box;
+    direction: ltr;
+    height: 0px;
+    position: relative;
+    width: 0px;
+    will-change: transform;
+    overflow: auto;
+    direction: ltr;
+    height: 0px;
+    position: relative;
+    width: 0px;
+    will-change: transform;
+    overflow: auto;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-281 {
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    z-index: -1;
+    animation: 0.001s ease 0s 1 normal none running resizeanim;
+    visibility: hidden;
+    opacity: 0;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-282 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-283 {
+    width: 1px;
+    height: 1px;
+    height: 1px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-284 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-285 {
+    display: flex;
+    flex-direction: column;
+    width: 240px;
+    position: absolute;
+    box-sizing: border-box;
+    z-index: 1000;
+    top: 1px;
+    left: 0px;
+    border-right: 0.8px solid rgb(54, 54, 54);
+}
+
+.style-286 {
+    display: none;
+    height: 100%;
+    z-index: 96;
+    border-right: 0.8px solid rgb(54, 54, 54);
+    box-sizing: border-box;
+    width: 960px;
+    min-width: 960px;
+    padding-top: 64px;
+    background: rgb(28, 28, 28) none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.style-287 {
+    box-sizing: border-box;
+    color: rgb(250, 250, 250);
+    height: 100%;
+    min-width: 100px;
+    display: flex;
+}
+
+.style-288 {
+    position: relative;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 240px;
+    min-width: 240px;
+    max-width: 240px;
+    box-shadow: rgb(54, 54, 54) -1px 0px 0px 0px inset;
+}
+
+.style-289 {
+    overflow: visible;
+    height: 0px;
+    width: 0px;
+    height: 0px;
+    width: 0px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-290 {
+    box-sizing: border-box;
+    direction: ltr;
+    height: 0px;
+    position: relative;
+    width: 0px;
+    will-change: transform;
+    overflow: auto;
+    direction: ltr;
+    height: 0px;
+    position: relative;
+    width: 0px;
+    will-change: transform;
+    overflow: auto;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-291 {
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    z-index: -1;
+    animation: 0.001s ease 0s 1 normal none running resizeanim;
+    visibility: hidden;
+    opacity: 0;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-292 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-293 {
+    width: 1px;
+    height: 1px;
+    height: 1px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-294 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-295 {
+    position: relative;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 240px;
+    min-width: 240px;
+    max-width: 240px;
+    box-shadow: rgb(54, 54, 54) -1px 0px 0px 0px inset;
+}
+
+.style-296 {
+    overflow: visible;
+    height: 0px;
+    width: 0px;
+    height: 0px;
+    width: 0px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-297 {
+    box-sizing: border-box;
+    direction: ltr;
+    height: 0px;
+    position: relative;
+    width: 0px;
+    will-change: transform;
+    overflow: auto;
+    direction: ltr;
+    height: 0px;
+    position: relative;
+    width: 0px;
+    will-change: transform;
+    overflow: auto;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-298 {
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    z-index: -1;
+    animation: 0.001s ease 0s 1 normal none running resizeanim;
+    visibility: hidden;
+    opacity: 0;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-299 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-300 {
+    width: 1px;
+    height: 1px;
+    height: 1px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-301 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-302 {
+    position: relative;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 240px;
+    min-width: 240px;
+    max-width: 240px;
+    box-shadow: rgb(54, 54, 54) -1px 0px 0px 0px inset;
+}
+
+.style-303 {
+    overflow: visible;
+    height: 0px;
+    width: 0px;
+    height: 0px;
+    width: 0px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-304 {
+    box-sizing: border-box;
+    direction: ltr;
+    height: 0px;
+    position: relative;
+    width: 0px;
+    will-change: transform;
+    overflow: auto;
+    direction: ltr;
+    height: 0px;
+    position: relative;
+    width: 0px;
+    will-change: transform;
+    overflow: auto;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-305 {
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    z-index: -1;
+    animation: 0.001s ease 0s 1 normal none running resizeanim;
+    visibility: hidden;
+    opacity: 0;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-306 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-307 {
+    width: 1px;
+    height: 1px;
+    height: 1px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-308 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-309 {
+    position: relative;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 240px;
+    min-width: 240px;
+    max-width: 240px;
+    box-shadow: rgb(54, 54, 54) -1px 0px 0px 0px inset;
+}
+
+.style-310 {
+    overflow: visible;
+    height: 0px;
+    width: 0px;
+    height: 0px;
+    width: 0px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-311 {
+    box-sizing: border-box;
+    direction: ltr;
+    height: 0px;
+    position: relative;
+    width: 0px;
+    will-change: transform;
+    overflow: auto;
+    direction: ltr;
+    height: 0px;
+    position: relative;
+    width: 0px;
+    will-change: transform;
+    overflow: auto;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-312 {
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    z-index: -1;
+    animation: 0.001s ease 0s 1 normal none running resizeanim;
+    visibility: hidden;
+    opacity: 0;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-313 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-314 {
+    width: 1px;
+    height: 1px;
+    height: 1px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-315 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-316 {
+    display: flex;
+    flex-direction: column;
+    width: 240px;
+    position: absolute;
+    box-sizing: border-box;
+    z-index: 1000;
+    top: 1px;
+    left: 0px;
+    border-right: 0.8px solid rgb(54, 54, 54);
+}
+
+.style-317 {
+    display: none;
+    height: 100%;
+    z-index: 95;
+    border-right: 0.8px solid rgb(54, 54, 54);
+    box-sizing: border-box;
+    width: 960px;
+    min-width: 960px;
+    padding-top: 64px;
+    background: rgb(28, 28, 28) none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.style-318 {
+    box-sizing: border-box;
+    color: rgb(250, 250, 250);
+    height: 100%;
+    min-width: 100px;
+    display: flex;
+}
+
+.style-319 {
+    position: relative;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 240px;
+    min-width: 240px;
+    max-width: 240px;
+    box-shadow: rgb(54, 54, 54) -1px 0px 0px 0px inset;
+}
+
+.style-320 {
+    overflow: visible;
+    height: 0px;
+    width: 0px;
+    height: 0px;
+    width: 0px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-321 {
+    box-sizing: border-box;
+    direction: ltr;
+    height: 0px;
+    position: relative;
+    width: 0px;
+    will-change: transform;
+    overflow: auto;
+    direction: ltr;
+    height: 0px;
+    position: relative;
+    width: 0px;
+    will-change: transform;
+    overflow: auto;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-322 {
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    z-index: -1;
+    animation: 0.001s ease 0s 1 normal none running resizeanim;
+    visibility: hidden;
+    opacity: 0;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-323 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-324 {
+    width: 1px;
+    height: 1px;
+    height: 1px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-325 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-326 {
+    position: relative;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 240px;
+    min-width: 240px;
+    max-width: 240px;
+    box-shadow: rgb(54, 54, 54) -1px 0px 0px 0px inset;
+}
+
+.style-327 {
+    overflow: visible;
+    height: 0px;
+    width: 0px;
+    height: 0px;
+    width: 0px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-328 {
+    box-sizing: border-box;
+    direction: ltr;
+    height: 0px;
+    position: relative;
+    width: 0px;
+    will-change: transform;
+    overflow: auto;
+    direction: ltr;
+    height: 0px;
+    position: relative;
+    width: 0px;
+    will-change: transform;
+    overflow: auto;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-329 {
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    z-index: -1;
+    animation: 0.001s ease 0s 1 normal none running resizeanim;
+    visibility: hidden;
+    opacity: 0;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-330 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-331 {
+    width: 1px;
+    height: 1px;
+    height: 1px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-332 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-333 {
+    position: relative;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 240px;
+    min-width: 240px;
+    max-width: 240px;
+    box-shadow: rgb(54, 54, 54) -1px 0px 0px 0px inset;
+}
+
+.style-334 {
+    overflow: visible;
+    height: 0px;
+    width: 0px;
+    height: 0px;
+    width: 0px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-335 {
+    box-sizing: border-box;
+    direction: ltr;
+    height: 0px;
+    position: relative;
+    width: 0px;
+    will-change: transform;
+    overflow: auto;
+    direction: ltr;
+    height: 0px;
+    position: relative;
+    width: 0px;
+    will-change: transform;
+    overflow: auto;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-336 {
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    z-index: -1;
+    animation: 0.001s ease 0s 1 normal none running resizeanim;
+    visibility: hidden;
+    opacity: 0;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-337 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-338 {
+    width: 1px;
+    height: 1px;
+    height: 1px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-339 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-340 {
+    position: relative;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 240px;
+    min-width: 240px;
+    max-width: 240px;
+    box-shadow: rgb(54, 54, 54) -1px 0px 0px 0px inset;
+}
+
+.style-341 {
+    overflow: visible;
+    height: 0px;
+    width: 0px;
+    height: 0px;
+    width: 0px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-342 {
+    box-sizing: border-box;
+    direction: ltr;
+    height: 0px;
+    position: relative;
+    width: 0px;
+    will-change: transform;
+    overflow: auto;
+    direction: ltr;
+    height: 0px;
+    position: relative;
+    width: 0px;
+    will-change: transform;
+    overflow: auto;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-343 {
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    z-index: -1;
+    animation: 0.001s ease 0s 1 normal none running resizeanim;
+    visibility: hidden;
+    opacity: 0;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-344 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-345 {
+    width: 1px;
+    height: 1px;
+    height: 1px;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-346 {
+    background: rgb(238, 238, 238) none repeat scroll 0% 0% / auto padding-box border-box;
+    overflow: auto;
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    box-sizing: border-box;
+    outline: rgb(250, 250, 250) none 0px;
+}
+
+.style-347 {
+    display: flex;
+    flex-direction: row;
+    place-content: center space-between;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 8px 16px 8px 256px;
+    min-height: 66px;
+    height: 66px;
+    max-height: 66px;
+    width: 100%;
+    -webkit-box-pack: justify;
+    position: absolute;
+    z-index: 999;
+    left: 0px;
+    top: 0px;
+    box-sizing: border-box;
+    background: rgb(28, 28, 28) none repeat scroll 0% 0% / auto padding-box border-box;
+    border-bottom: 0.8px solid rgb(54, 54, 54);
+    border-top: 0.8px solid rgb(54, 54, 54);
+}
+
+.style-348 {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    gap: 16px;
+    justify-content: left;
+    box-sizing: border-box;
+}
+
+.style-349 {
+    display: flex;
+    flex-direction: row;
+    flex: 1 1 0%;
+    gap: 16px;
+    color: rgb(105, 105, 105);
+    font-size: 12px;
+    white-space: nowrap;
+    box-sizing: border-box;
+}
+
+.style-350 {
+    box-sizing: border-box;
+    cursor: auto;
+}
+
+.style-351 {
+    display: flex;
+    flex-direction: row;
+    width: max-content;
+    min-width: 70px;
+    justify-content: left;
+    box-sizing: border-box;
+}
+
+.style-352 {
+    display: flex;
+    flex-direction: column;
+    width: max-content;
+    font-weight: 500;
+    box-sizing: border-box;
+}
+
+.style-353 {
+    box-sizing: border-box;
+    cursor: auto;
+}
+
+.style-354 {
+    display: flex;
+    flex-direction: row;
+    width: max-content;
+    min-width: 70px;
+    justify-content: left;
+    box-sizing: border-box;
+}
+
+.style-355 {
+    display: flex;
+    flex-direction: column;
+    width: max-content;
+    font-weight: 500;
+    box-sizing: border-box;
+}
+
+.style-356 {
+    box-sizing: border-box;
+    cursor: auto;
+}
+
+.style-357 {
+    display: flex;
+    flex-direction: row;
+    min-width: 150px;
+    width: max-content;
+    justify-content: left;
+    box-sizing: border-box;
+}
+
+.style-358 {
+    display: flex;
+    flex-direction: row;
+    width: max-content;
+    gap: 4px;
+    font-weight: 500;
+    box-sizing: border-box;
+}
+
+.style-359 {
+    box-sizing: border-box;
+    cursor: auto;
+}
+
+.style-360 {
+    display: flex;
+    flex-direction: column;
+    cursor: default;
+    box-sizing: border-box;
+}
+
+.style-361 {
+    margin: 0px;
+    font-weight: 500;
+    letter-spacing: -0.18px;
+    line-height: normal;
+    font-family: Inter, Roboto, sans-serif;
+    color: rgb(105, 105, 105);
+    font-size: 12px;
+    box-sizing: border-box;
+}
+
+.style-362 {
+    display: flex;
+    flex-direction: row;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+
+.style-363 {
+    display: flex;
+    flex-direction: row;
+    width: auto;
+    gap: 8px;
+    -webkit-box-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.style-364 {
+    margin: 0px;
+    flex-shrink: 0;
+    border-width: 0px 0.8px 0px 0px;
+    border-style: solid;
+    border-color: rgb(54, 54, 54);
+    height: auto;
+    align-self: stretch;
+    box-sizing: border-box;
+}
+
+.style-365 {
+    box-sizing: border-box;
+    cursor: auto;
+}
+
+.style-366 {
+    display: flex;
+    flex-direction: column;
+    border-radius: 4px;
+    padding: 4px;
+    color: rgb(180, 90, 255);
+    background-color: rgb(49, 49, 49);
+    cursor: pointer;
+    transition: all 0.2s ease-in-out 0s;
+    box-sizing: border-box;
+}
+
+.style-367 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    gap: 0px;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.style-368 {
+    box-sizing: border-box;
+    user-select: none;
+    width: 1em;
+    height: 21px;
+    display: block;
+    fill: rgb(180, 90, 255);
+    flex-shrink: 0;
+    transition: fill 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+    font-size: 21px;
+    stroke-width: 0.5px;
+    stroke: rgb(28, 28, 28);
+}
+
+.style-369 {
+    box-sizing: border-box;
+}
+
+.style-370 {
+    box-sizing: border-box;
+    cursor: auto;
+}
+
+.style-371 {
+    display: flex;
+    flex-direction: column;
+    border-radius: 4px;
+    padding: 4px;
+    color: rgb(156, 156, 156);
+    background-color: rgba(0, 0, 0, 0);
+    cursor: pointer;
+    transition: all 0.2s ease-in-out 0s;
+    box-sizing: border-box;
+}
+
+.style-372 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    gap: 0px;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.style-373 {
+    box-sizing: border-box;
+    user-select: none;
+    width: 1em;
+    height: 21px;
+    display: block;
+    fill: rgb(156, 156, 156);
+    flex-shrink: 0;
+    transition: fill 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+    font-size: 21px;
+    stroke-width: 0.5px;
+    stroke: rgb(28, 28, 28);
+}
+
+.style-374 {
+    box-sizing: border-box;
+}
+
+.style-375 {
+    box-sizing: border-box;
+    cursor: auto;
+}
+
+.style-376 {
+    display: flex;
+    flex-direction: column;
+    border-radius: 4px;
+    padding: 4px;
+    color: rgb(156, 156, 156);
+    background-color: rgba(0, 0, 0, 0);
+    cursor: pointer;
+    transition: all 0.2s ease-in-out 0s;
+    box-sizing: border-box;
+}
+
+.style-377 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    gap: 0px;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.style-378 {
+    box-sizing: border-box;
+    user-select: none;
+    width: 1em;
+    height: 21px;
+    display: block;
+    fill: rgb(156, 156, 156);
+    flex-shrink: 0;
+    transition: fill 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+    font-size: 21px;
+    stroke-width: 0.5px;
+    stroke: rgb(28, 28, 28);
+}
+
+.style-379 {
+    box-sizing: border-box;
+}
+
+.style-380 {
+    box-sizing: border-box;
+    cursor: auto;
+}
+
+.style-381 {
+    display: flex;
+    flex-direction: column;
+    border-radius: 4px;
+    padding: 4px;
+    color: rgb(156, 156, 156);
+    background-color: rgba(0, 0, 0, 0);
+    cursor: pointer;
+    transition: all 0.2s ease-in-out 0s;
+    box-sizing: border-box;
+}
+
+.style-382 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    gap: 0px;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.style-383 {
+    box-sizing: border-box;
+    user-select: none;
+    width: 1em;
+    height: 21px;
+    display: block;
+    fill: rgb(156, 156, 156);
+    flex-shrink: 0;
+    transition: fill 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+    font-size: 21px;
+    stroke-width: 0.5px;
+    stroke: rgb(28, 28, 28);
+}
+
+.style-384 {
+    box-sizing: border-box;
+}
+
+.style-385 {
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    position: relative;
+    z-index: 98;
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    min-width: 0px;
+    box-sizing: border-box;
+}
+
+.style-386 {
+    margin: 0px;
+    flex-shrink: 0;
+    border-width: 0px 0px 0.8px;
+    border-style: solid;
+    border-color: rgb(54, 54, 54);
+    display: none;
+    box-sizing: border-box;
+}
+
+.style-387 {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    padding-top: 64px;
+    height: 475.6px;
+    outline: rgb(0, 0, 0) none 0px;
+    box-sizing: border-box;
+}
